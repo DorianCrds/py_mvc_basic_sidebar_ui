@@ -1,0 +1,163 @@
+{
+  "light": {
+    "menu_background_color": "#F8F9FA",
+    "menu_text_color": "#2C2C2C",
+    "menu_button_color": "#F8F9FA",
+    "menu_button_text_color": "#2C2C2C",
+    "menu_button_icon_color": "#4A90E2",
+    "menu_button_hover_color": "#E8ECEF",
+
+    "content_background_color": "#FFFFFF",
+    "content_widget_background": "#F5F7FA",
+    "content_widget_text_color": "#000000",
+    "combobox_icon_path": "./resources/icons/light/down_arrow.png",
+
+    "combobox_background_color": "#FFFFFF",
+    "combobox_text_color": "#000000",
+    "combobox_border_color": "#C4C9CF",
+    "combobox_hover_background_color": "#D4DAE0",
+    "combobox_hover_text_color": "#000000",
+    "combobox_hover_border_color": "#4A90E2",
+    "combobox_selected_background_color": "#B4C7E7",
+    "combobox_selected_text_color": "#000000",
+    "combobox_selected_border_color": "#3A77C0"
+  },
+  "dark": {
+    "menu_background_color": "#1E1E1E",
+    "menu_text_color": "#EDEDED",
+    "menu_button_color": "#1E1E1E",
+    "menu_button_text_color": "#EDEDED",
+    "menu_button_icon_color": "#569CD6",
+    "menu_button_hover_color": "#2A2A2A",
+
+    "content_background_color": "#121212",
+    "content_widget_background": "#2D2D2D",
+    "content_widget_text_color": "#FFFFFF",
+    "combobox_icon_path": "./resources/icons/dark/down_arrow.png",
+
+    "combobox_background_color": "#FFFFFF",
+    "combobox_text_color": "#000000",
+    "combobox_border_color": "#C4C9CF",
+    "combobox_hover_background_color": "#505050",
+    "combobox_hover_text_color": "#000000",
+    "combobox_hover_border_color": "#569CD6",
+    "combobox_selected_background_color": "#404040",
+    "combobox_selected_text_color": "#000000",
+    "combobox_selected_border_color": "#007ACC"
+  },
+  "sepia": {
+    "menu_background_color": "#EDE3D6",
+    "menu_text_color": "#4A3C31",
+    "menu_button_color": "#EDE3D6",
+    "menu_button_text_color": "#4A3C31",
+    "menu_button_icon_color": "#A67557",
+    "menu_button_hover_color": "#D7C8B7",
+
+    "content_background_color": "#F4ECE1",
+    "content_widget_background": "#FFFFFF",
+    "content_widget_text_color": "#000000",
+    "combobox_icon_path": "./resources/icons/light/down_arrow.png",
+
+    "combobox_background_color": "#FFFFFF",
+    "combobox_text_color": "#000000",
+    "combobox_border_color": "#C4C9CF",
+    "combobox_hover_background_color": "#DAC1B0",
+    "combobox_hover_text_color": "#000000",
+    "combobox_hover_border_color": "#A67557",
+    "combobox_selected_background_color": "#C9AB98",
+    "combobox_selected_text_color": "#000000",
+    "combobox_selected_border_color": "#8B5E3C"
+  },
+  "indigo": {
+    "menu_background_color": "#283593",
+    "menu_text_color": "#FFFFFF",
+    "menu_button_color": "#283593",
+    "menu_button_text_color": "#FFFFFF",
+    "menu_button_icon_color": "#1A237E",
+    "menu_button_hover_color": "#5C6BC0",
+
+    "content_background_color": "#E8EAF6",
+    "content_widget_background": "#C5CAE9",
+    "content_widget_text_color": "#000000",
+    "combobox_icon_path": "./resources/icons/indigo/down_arrow.png",
+
+    "combobox_background_color": "#FFFFFF",
+    "combobox_text_color": "#000000",
+    "combobox_border_color": "#C4C9CF",
+    "combobox_hover_background_color": "#B8C0E0",
+    "combobox_hover_text_color": "#000000",
+    "combobox_hover_border_color": "#283593",
+    "combobox_selected_background_color": "#7986CB",
+    "combobox_selected_text_color": "#000000",
+    "combobox_selected_border_color": "#1A237E"
+  },
+  "forest_green": {
+    "menu_background_color": "#588157",
+    "menu_text_color": "#FFFFFF",
+    "menu_button_color": "#588157",
+    "menu_button_text_color": "#FFFFFF",
+    "menu_button_icon_color": "#3E593D",
+    "menu_button_hover_color": "#779B76",
+
+    "content_background_color": "#E4F0E4",
+    "content_widget_background": "#C5D7C5",
+    "content_widget_text_color": "#000000",
+    "combobox_icon_path": "./resources/icons/forest_green/down_arrow.png",
+
+    "combobox_background_color": "#FFFFFF",
+    "combobox_text_color": "#000000",
+    "combobox_border_color": "#C4C9CF",
+    "combobox_hover_background_color": "#91B093",
+    "combobox_hover_text_color": "#000000",
+    "combobox_hover_border_color": "#588157",
+    "combobox_selected_background_color": "#6D8F6D",
+    "combobox_selected_text_color": "#000000",
+    "combobox_selected_border_color": "#3E593D"
+  },
+  "burgundy_red": {
+    "menu_background_color": "#b30323",
+    "menu_text_color": "#FFFFFF",
+    "menu_button_color": "#b30323",
+    "menu_button_text_color": "#FFFFFF",
+    "menu_button_icon_color": "#7f0218",
+    "menu_button_hover_color": "#e63946",
+
+    "content_background_color": "#FFE9EB",
+    "content_widget_background": "#FFCDD1",
+    "content_widget_text_color": "#000000",
+    "combobox_icon_path": "./resources/icons/burgundy_red/down_arrow.png",
+
+    "combobox_background_color": "#FFFFFF",
+    "combobox_text_color": "#000000",
+    "combobox_border_color": "#C4C9CF",
+    "combobox_hover_background_color": "#FFB3B8",
+    "combobox_hover_text_color": "#000000",
+    "combobox_hover_border_color": "#b30323",
+    "combobox_selected_background_color": "#FF8C94",
+    "combobox_selected_text_color": "#000000",
+    "combobox_selected_border_color": "#7f0218"
+  },
+  "violet": {
+    "menu_background_color": "#7b2cbf",
+    "menu_text_color": "#FFFFFF",
+    "menu_button_color": "#7b2cbf",
+    "menu_button_text_color": "#FFFFFF",
+    "menu_button_icon_color": "#5a1e8a",
+    "menu_button_hover_color": "#9b4adf",
+
+    "content_background_color": "#F4E6FF",
+    "content_widget_background": "#EAD4FF",
+    "content_widget_text_color": "#000000",
+    "combobox_icon_path": "./resources/icons/violet/down_arrow.png",
+
+    "combobox_background_color": "#FFFFFF",
+    "combobox_text_color": "#000000",
+    "combobox_border_color": "#C4C9CF",
+    "combobox_hover_background_color": "#C299FF",
+    "combobox_hover_text_color": "#000000",
+    "combobox_hover_border_color": "#7b2cbf",
+    "combobox_selected_background_color": "#B380FF",
+    "combobox_selected_text_color": "#000000",
+    "combobox_selected_border_color": "#4A0070"
+  }
+}
