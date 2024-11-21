@@ -1,13 +1,18 @@
-from src.models.example_model import ExampleModel
+from src.views.main_window import MainWindow
 
 
 class MainController:
     def __init__(self):
 
-        self.example_model = ExampleModel()
+        # Initializes view
+        self.main_window = MainWindow()
 
-    def get_all_elements(self):
-        return self.example_model.get_all_elements()
+        # Initializes services
 
-    def get_element_by_id(self):
-        return self.example_model.get_element_by_id()
+        # Initializes models
+
+    def show_view(self) -> None:
+        """
+        Render view.
+        """
+        self.main_window.show()

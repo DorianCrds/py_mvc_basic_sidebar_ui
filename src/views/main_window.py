@@ -1,6 +1,5 @@
 from PySide6.QtWidgets import QMainWindow, QHBoxLayout, QWidget
 
-from src.controllers.main_controller import MainController
 from src.controllers.settings_controller import SettingsController
 from src.views.dashboard_view import DashboardView
 from src.views.info_view import InfoView
@@ -60,7 +59,6 @@ class MainWindow(QMainWindow):
         """
 
         # Setup controllers
-        self.main_controller = MainController()
         self.settings_controller = SettingsController()
 
         # Setup main window

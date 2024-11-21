@@ -2,11 +2,11 @@ import sys
 
 from PySide6.QtWidgets import QApplication
 
-from src.views.main_window import MainWindow
+from src.controllers.main_controller import MainController
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
 
-    window = MainWindow()
-    window.show()
+    main_controller = MainController()
+    main_controller.show_view()
     sys.exit(app.exec())
